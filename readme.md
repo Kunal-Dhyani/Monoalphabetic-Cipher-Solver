@@ -159,6 +159,6 @@ intervention.
 ## 8 Resources used
 
 1. Dictionary: wordsalpha.txt
-    - Source: Github Link
+    - Source: https://github.com/dwyl/english-words.git
 
 
