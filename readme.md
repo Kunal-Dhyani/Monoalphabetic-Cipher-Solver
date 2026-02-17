@@ -88,10 +88,6 @@ collaborated with kim krizan to develop the screenplay, who previously appeared 
 his films slacker and dazed and confused. casting was extensive, it took nine months
 ```
 
-```
-for hawke and delpy to be cast, with the pair also contributing uncredited rewrites.
-principal photography took place entirely in vienna. good film to watch.
-```
 ## 5 Ciphertext 2
 
 q#qp1#x #z p1 p5t@#xp1 t4#x @v5p1xt p1o o#zpzqt@ $#05 o#@txqto, w@#qqt1, 4@vorxto, p1o
