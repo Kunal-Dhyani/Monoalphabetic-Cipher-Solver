@@ -63,7 +63,7 @@ The final score is:
 Score = dictionary matches− penalties− vowel less words
 ```
 ## 4 Ciphertext 1
-\begin{verbatim}
+
 qots4o 7#8417o 17 z 4syz831r x4zyz t1wy x14or3ox q5 41rnz4x w18uwz3o4 z8x 24133o8 q
 w18uwz3o4 z8x u1y u41@z8. 3no t1473 1873zwwyo83 18 3no qots4o 341ws$5, 13 tswws27 vo77o,
 o3nz8 nz2uo z8x row18o, v#w1o xowp5 z7 3no5 yoo3 s8 z o#4z1w 34z18 z8x x17oyqz4u 18
@@ -72,7 +72,7 @@ rswwzqs4z3ox 213n u1y u41@z8 3s xo9owsp 3no 7r4oo8pwz5, 2ns p4o91s#7w5 zppoz4ox 
 t1wy7 7wzruo4 z8x xz@ox z8x rs8t#7ox. rz7318$ 2z7 o03o8719o, 13 3ssu 818o ys83n7 ts
 nz2uo z8x xowp5 3s qo rz73, 213n 3no pz14 zw7s rs8341q#318$ #8r4ox13ox 4o2413o7.
 p418r1pzw pns3s$4zpn5 3ssu pwzro o8314ow5 18 91o88z. $ssx t1wy 3s 2z3rn.
-\end{verbatim}
+
 ### 4.1 Deciphered Key
 
 Deciphered Key: zqrxot$n1vuwy8spx473#9205@
@@ -89,16 +89,16 @@ his films slacker and dazed and confused. casting was extensive, it took nine mo
 ```
 
 ## 5 Ciphertext 2
-\begin{verbatim}
-q#qp1#x #z p1 p5t@#xp1 t4#x @v5p1xt p1o o#zpzqt@ $#05 o#@txqto, w@#qqt1, 4@vorxto, p1o
-xv to#qto 68 9p5tz xp5t@v1. #1xv@4v@pq#1n 6vq3 3#zqv@#xp0 p1o $#xq#v1p0#sto pz4txqz, #q
-#z 6pzto v1 pxxvr1qz v$ q3t z#12#1n v$ q3t @5z q#qp1#x, p1o zqp@z 0tv1p@ov o#xp4@#v p1o
-2pqt w#1z0tq pz 5t56t@z v$ o#$$t@t1q zvx#p0 x0pzztz w3v $p00 #1 0vut p6vp@o q3t z3#
-or@#1n #qz #00 $pqto 5p#ot1 uv8pnt. xp5t@v1 #1z4#@pq#v1 $v@ q3t $#05 xp5t $@v5 3#z
-$pzx#1pq#v1 w#q3 z3#4w@tx2z, 3t $t0q p 0vut zqv@8 #1qt@z4t@zto w#q3 q3t 3r5p1 0vzz wvr0o
-6t tzzt1q#p0 qv xv1ut8 q3t t5vq#v1p0 #54pxq v$ q3t o#zpzqt@. 4@vorxq#v1 6tnp1 w3t1 xp5t@v
-z3vq $vvqpnt v$ q3t pxqrp0 q#qp1#x w@tx2. p1vq3t@ nvvo $#05.
-\end{verbatim}
+
+q\#qp1\#x \#z p1 p5t@\#xp1 t4\#x @v5p1xt p1o o\#zpzqt@ $\#05 o\#@txqto, w@\#qqt1, 4@vorxto, p1o
+xv to\#qto 68 9p5tz xp5t@v1. \#1xv@4v@pq\#1n 6vq3 3\#zqv@\#xp0 p1o $\#xq\#v1p0\#sto pz4txqz, \#q
+\#z 6pzto v1 pxxvr1qz v$ q3t z\#12\#1n v$ q3t @5z q\#qp1\#x, p1o zqp@z 0tv1p@ov o\#xp4@\#v p1o
+2pqt w\#1z0tq pz 5t56t@z v$ o\#$$t@t1q zvx\#p0 x0pzztz w3v $p00 \#1 0vut p6vp@o q3t z3\#
+or@\#1n \#qz \#00 $pqto 5p\#ot1 uv8pnt. xp5t@v1 \#1z4\#@pq\#v1 $v@ q3t $\#05 xp5t $@v5 3\#z
+$pzx\#1pq\#v1 w\#q3 z3\#4w@tx2z, 3t $t0q p 0vut zqv@8 \#1qt@z4t@zto w\#q3 q3t 3r5p1 0vzz wvr0o
+6t tzzt1q\#p0 qv xv1ut8 q3t t5vq\#v1p0 \#54pxq v$ q3t o\#zpzqt@. 4@vorxq\#v1 6tnp1 w3t1 xp5t@v
+z3vq $vvqpnt v$ q3t pxqrp0 q\#qp1\#x w@tx2. p1vq3t@ nvvo $\#05.
+
 
 ### 5.1 Deciphered Key
 
@@ -117,7 +117,7 @@ would be essential to convey the emotional impact of the disaster production beg
 when cameron shot footage of the actual titanic wreck another good film
 ```
 ## 6 Ciphertext 3
-\begin{verbatim}
+
 vy04p0t x08 ox8n0ot0n0, 5#tt#x @4734 5u y8o p#4 40q# px#q1y04v, 30o 04 84v804 3x8t#x
 90q7$o 97x y8o q7v#x4 y84v$ot048 z8t#x0t$x#. q$4oy8 px#q1y04v 30o 0 p874##x 79 y84v
 04v $xv$ o7180z 981t874. y# 30o 74# 79 ty# 98xot 0$ty7xo t7 3x8t# 057$t 10ot#
@@ -125,7 +125,7 @@ y8#x0x1y8#o 04v ty# pz82yto 79 37q#4 04v z057$x#xo px#n0z#4t 84 ty# o718#tu. y# 
 79 ty# q7ot 1#z#5x0t#v 3x8t#xo 79 ty# 84v804 o$5174t84#4t,04v 8o x#20xv#v 0o 74# 79 ty#
 97x#q7ot y84v8 3x8t#xo 79 ty# #0xzu t3#4t8#ty 1#4t$xu. y8o 37x@o 841z$v# 27v004,
 @0xq05y77q8, 20504, q04o0x7n0x, 8v20y.
-\end{verbatim}
+
 
 ### 6.1 Deciphered Key
 
